@@ -31,7 +31,6 @@ jobs:
         with:
           fetch-depth: 1
 
-
       - name: Run Claude Code Review
         id: claude-review
         uses: anthropics/claude-code-action@beta
