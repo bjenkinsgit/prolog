@@ -31,9 +31,6 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Install dependencies
-        run: bun install # Ensure this command works in your setup
-
 
       - name: Run Claude Code Review
         id: claude-review
