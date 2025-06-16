@@ -16,4 +16,3 @@ jobs:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           direct_prompt: |
             Review the PR changes. Focus on code quality, potential bugs, and adherence to project standards. Suggest improvements and provide a detailed explanation.
-

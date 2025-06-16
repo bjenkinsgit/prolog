@@ -5,6 +5,7 @@ dish(cookie, oven ,  8,  3).
 dish(fries , fryer,  7,  5).
 dish(wings , fryer, 12,  6).
 dish(burger, grill, 12,  7).
+dish(hot_dog, grill, 5,  4).
 dish(steak , grill, 20, 12).
 
 best_plan(Shift, Plan, Profit) :-
