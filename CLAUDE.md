@@ -25,6 +25,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 - **learnprolognow/**: Learning exercises from Learn Prolog Now tutorial
 - **AdaptiveThinkingBook/**: Examples from adaptive thinking/AI books
 - **book/**: Logic programming examples and recursion patterns
+- **LogicProgrammingInProlog/**: Chapter-based practice problems and exercises organized by topic
 
 ### Key Integration Patterns
 1. **HTTP/JSON APIs**: `hello_server.pl` shows SWI-Prolog HTTP server setup
